@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <a href="https://api.daily.dev/get?r=Satriabot"><img height="200" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/root.svg"></a>
 <p align='center'>  I'm TahaluIndo (21 y.o) ! :sunglasses: </p>
-<img width="800px" src="https://github.com/rudrabarad/Gifs" />
+<img width="800px" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif" />
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 </p>
 ![Profil Me](https://github.com/satriabot)
