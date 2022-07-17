@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <a href="https://api.daily.dev/get?r=Satriabot"><img height="200" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/root.svg"></a>
 <p align='center'>  I'm TahaluIndo (21 y.o) ! :sunglasses: </p>
-<img width="800px" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/Black%20Purple%20and%20Cyan%20Neon%20Noir%20%20Vaporwave%20Sports%20YouTube%20Outro.gif" />
+<img width="800px" src="https://https://github.com/rudrabarad/Gifs" />
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 </p>
 ![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahaluindo&theme=monokai)
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=tahaluindo)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=satriabot)
 
 </details> 
 :page_with_curl: I'm currently learning:
