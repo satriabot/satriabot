@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <details>
     <summary>Emmmm...<b></b></summary><br/>
-<p align='center'><a href="https://api.daily.dev/get?r=Koleksibot"><img src="https://telegra.ph/file/3f8b2987e6b010c467dd6.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=Satriabot"><img src="https://telegra.ph/file/3f8b2987e6b010c467dd6.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
 
 ![TahaluIndo's card name](https://cardivo.vercel.app/api?name=Tahalu%20Indonesia&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/3f8b2987e6b010c467dd6.png?v=4&backgroundColor=%23ecf0f1&instagram=cyber_mrlinkerrorsystemoffical&linkedin=I%20Blackhat%20Indo%20Nesia%20%20Indonesia&github=tahaluindo&twitter=koleksibot&pattern=leaf&colorPattern=%23eaeaea)
 
@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <a href="https://api.daily.dev/get?r=Satriabot"><img height="200" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/root.svg"></a>
 <p align='center'>  I'm TahaluIndo (21 y.o) ! :sunglasses: </p>
-<img width="800px" src="https://https://github.com/rudrabarad/Gifs" />
+<img width="800px" src="https://github.com/rudrabarad/Gifs" />
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 </p>
-![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahaluindo&theme=monokai)
+![Profil Me](https://github.com/satriabot)
 
 </p>
 </details>
