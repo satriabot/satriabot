@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <h1  align='center'> Welcome To Satriabot 👻 </h1>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=Satriabot99&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Satriabot99" />
 <p align='center'><a href="https://api.daily.dev/get?r=Satriabot99"><img src="https://telegra.ph/file/499eadf5bb3de8ef33dbd.jpg?r=82s" width="150" alt="Satria BOT's Dev Card"/></a></p>
-<p align='center'><a href="https://www.dmca.com/Protection/Status.aspx?ID=090f6134-5e5e-46fd-a879-b366b9a65060&refurl=https://github.com/satriabot" target="_blank" title="Check Protection Status" class="dmca-badge"> <img src ="https://telegra.ph/file/fc29daf49c1f6d2748595.jpg?st=2019-03-02T00%3A22%3A29Z&se=2028-03-03T00%3A22%3A00Z&sp=rw&sv=2018-03-28&sr=c&sig=5uj40e0WkJN4jO9efLP3CKvstLnc2LG%2BqWfMC6U4Ou0%3D" alt="DMCA.com for Github" /></a></p>
+<p align='center'><a href="https://www.dmca.com/Protection/Status.aspx?ID=090f6134-5e5e-46fd-a879-b366b9a65060&refurl=https://github.com/satriabot" target="_blank" title="Check Protection Status" class="dmca-badge"> <img src ="https://telegra.ph/file/db9cb18ef8939cd0741cf.jpg?st=2019-03-02T00%3A22%3A29Z&se=2028-03-03T00%3A22%3A00Z&sp=rw&sv=2018-03-28&sr=c&sig=5uj40e0WkJN4jO9efLP3CKvstLnc2LG%2BqWfMC6U4Ou0%3D" alt="DMCA.com for Github" /></a></p>
 <a href="https://api.daily.dev/get?r=Satriabot99"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'>
 <a href="https://api.daily.dev/get?r=Satriabot"><img height="200" src="https://telegra.ph/file/42d9fa6445e9b1593afbc.jpg"></a>
